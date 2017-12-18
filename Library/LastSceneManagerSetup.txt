@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/projekti0_1.unity
+- path: Assets/projekti1.0.unity
   isLoaded: 1
   isActive: 1
